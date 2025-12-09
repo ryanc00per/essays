@@ -1,6 +1,6 @@
 # Essays Website
 
-A terminal-style personal essays website, inspired by [Asha Sharma's essays page](https://ashashar.github.io/essays/).
+A terminal-style personal essays website
 
 ## Setup Instructions
 
@@ -71,4 +71,5 @@ For each essay, create an HTML file at `essays/[slug]/index.html` or use a stati
 ## License
 
 Feel free to use and modify this template for your own essays.
+
 
